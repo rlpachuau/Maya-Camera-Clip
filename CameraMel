@@ -1,0 +1,4 @@
+setAttr "frontShape.farClipPlane" 100000;
+setAttr "sideShape.farClipPlane" 100000;
+setAttr "topShape.farClipPlane" 100000;
+setAttr "perspShape.farClipPlane" 100000;
